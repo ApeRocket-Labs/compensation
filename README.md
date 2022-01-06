@@ -4,20 +4,17 @@
 
 <h1 align=center> ApeRocket Polygon - Compensation </h1>
 
-<h3 align=center> This repository contains all the addresses that have been affected by the exploit on Polygon. </h3>
-<h3 align=center> We have based this list on the value of :
+<p align=center> This repository contains all the addresses that have been affected by the exploit on Polygon. </h3>
+<p align=center> We have based this list on the value of : </p>
 <br/>
-  <li> pSpace wallet balance </li>
-  <li> pSpace stacked </li>
-  <li> pSpace-WETH stacked (on ApeRocket and Polycrystal) </li>
-
+  <li align=center> pSpace wallet balance </li>
+  <li align=center> pSpace stacked </li>
+  <li align=center> pSpace-WETH stacked (on ApeRocket and Polycrystal) </li>
   <p>
   <br/>
-  On the block just before the exploit :
+  <p align=center>On the block just before the exploit :
    <a href="https://polygonscan.com/block/16844540">https://polygonscan.com/block/16844540</a>
   </p>
-  </h3>
-
   <hr>
 
 
